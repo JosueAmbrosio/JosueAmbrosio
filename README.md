@@ -56,16 +56,6 @@ Actualmente trabajo con tecnologías tanto en backend como en frontend, y me int
 
 ---
 
-# 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueAmbrosio&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueAmbrosio&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🎯 Actualmente enfocado en
 
 - Seguir mejorando mi arquitectura backend  
